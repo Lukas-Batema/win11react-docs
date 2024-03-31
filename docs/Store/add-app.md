@@ -16,7 +16,7 @@ Read the schema below, **BEFORE** adding any game/app element into the `store.js
 
 ```json
 {
-  "name": "Minecraft", // unique name (check if it has been used already in the file)
+  "name": "Roblox", // unique name (check if it has been used already in the file)
   "icon": "https://example.com/minecraft.png", // logo image, preferrably 1:1 and less than 128px of width
   "type": "game", // game or app
   "data": {
@@ -28,7 +28,8 @@ Read the schema below, **BEFORE** adding any game/app element into the `store.js
       "https://variety.com/wp-content/uploads/2019/02/minecraft-best-year-yet.png?w=600",
       "https://www.minecraft.net/content/dam/games/minecraft/screenshots/RayTracing-MineCraft-PMP-Always-Something-New.jpg"
     ],
-    "desc": "Minecraft is a sandbox construction video game ...", // description for store app
+    "desc": "Minecraft is a sandbox construction
+ video game ...", // description for store app
     "feat": "1.1 Combat changes.\n1.2 Fletching table functionality.", // features for store app
     "invert": true // when true it forces dark theme for game/app window, default is false.
   }
