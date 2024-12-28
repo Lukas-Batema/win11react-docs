@@ -21,7 +21,7 @@ Read the schema below, **BEFORE** adding any game/app element into the `store.js
   "type": "game", // game or app
   "data": {
     "type": "IFrame", // type currently supports IFrame only
-    "url": "https://classic.minecraft.net", // url of the app and make sure they accept Iframe
+    "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Feaglercraft.q13x.com%2F&psig=AOvVaw3_bKemcjzfOdNOHjrOB1pj&ust=1735513405477000&source=images&cd=vfe&opi=89978449&ved=0CAQQn5wMahcKEwjwvraPvMuKAxUAAAAAHQAAAAAQBA", // url of the app and make sure they accept Iframe
     "gallery": [
       // three or more images for gallery view in store app
       "https://www.minecraft.net/content/dam/games/minecraft/key-art/CavesandCliffsPt1-dotNET-HomepagePromo-600x360.png",
